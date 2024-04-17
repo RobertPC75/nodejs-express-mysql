@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb"
+  HOST: "40.71.187.80",
+  USER: "crhis",
+  PASSWORD: "admin",
+  DB: "parcialappdb"
 };
